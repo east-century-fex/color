@@ -1,12 +1,12 @@
 {
-  "name": "@jiaminghi/color",
-  "version": "0.1.1",
-  "author": "JiaMing <743192023@qq.com>",
+  "name": "@east-century/color",
+  "version": "0.0.1",
+  "author": "fex <fex@hndfsj.com>",
   "description": "Color extension",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jiaming743/Color.git"
+    "url": "https://github.com/east-century-fex/color.git"
   },
   "scripts": {
     "build": "node build/index.js",
@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jiaming743/Color/issues"
+    "url": "https://github.com/east-century-fex/color/issues"
   },
   "keywords": [
     "color",
@@ -26,7 +26,7 @@
     "darken",
     "lighten"
   ],
-  "homepage": "https://github.com/jiaming743/Color#readme",
+  "homepage": "https://github.com/east-century-fex/color#color-extension",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
